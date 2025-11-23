@@ -1434,12 +1434,12 @@
 | Enterprise Platform | 4 | 0 | 0 | 4 |
 | Prompt Engineering | 2 | 0 | 0 | 2 |
 | Maturity & Assessment | 2 | 2 | 0 | 0 |
-| Risk & Compliance | 4 | 0 | 0 | 4 |
+| Risk & Compliance | 4 | 4 | 0 | 0 |
 | ROI & Business | 2 | 0 | 0 | 2 |
 | LLM Platforms | 2 | 0 | 0 | 2 |
 | Monitoring | 2 | 0 | 0 | 2 |
 | Operating Model | 2 | 0 | 0 | 2 |
-| **High Priority Total** | **35** | **8** | **0** | **27** |
+| **High Priority Total** | **35** | **12** | **0** | **23** |
 
 ---
 
